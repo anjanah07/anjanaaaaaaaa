@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anjanaaaaaaaa
 - 👀 I’m interested in java programming
-- 🌱 I’m currently learning java, python, cyber security and android development
+- 🌱 I’m currently learning java, python, cyber security
 - 💞️ I’m looking to collaborate on projects involving java and java frameworks
 - 📫 How to reach me on my gmail: anjanah2021@gmail.com
 
