@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anjanaaaaaaaa
 - 👀 I’m interested in java programming
-- 🌱 I’m currently learning java,blockchain,cyber security and economics
+- 🌱 I’m currently learning web development and its frameworks, java and dsa concepts
 - 💞️ I’m looking to collaborate on projects involving java and web frameworks
 - 📫 How to reach me on my gmail: anjanah2021@gmail.com
 
