@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anjanaaaaaaaa
+- 👋 Hi, I’m Anjana
 - 👀 I’m interested in java programming
 - 🌱 I’m currently learning web development and its frameworks, java and dsa concepts
 - 💞️ I’m looking to collaborate on projects involving java and web frameworks
